@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /search
+
+Sitemap: https://superdating.netlify.app/sitemap.xml
+
